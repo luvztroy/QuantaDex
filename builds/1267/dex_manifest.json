@@ -1,0 +1,79 @@
+{
+  "archive": "dexes.zip",
+  "archive_sha256": "fa1a1165128c9d2d5dd57720d3977bc2ca32b08b29da61b916842b8dc0447c05",
+  "archive_size": 133663,
+  "assets": {
+    "custom_received.mp3": {
+      "path": "assets/custom_received.mp3",
+      "sha256": "47184a141ee56b7ca1f2328c70fd2283474c8af48f6779380f088edb4db81cd7",
+      "size": 32968
+    }
+  },
+  "build": "1267",
+  "dexes": {
+    "classes.dex": {
+      "sha256": "dab14f2db11cba4c2b10d92c73db42e044075c5f88121915c0cad41d65609d6f",
+      "size": 24468
+    },
+    "classes10.dex": {
+      "sha256": "79cbe3f9ccd5e19ceea7ac76ef324bea7aaa1e8605a1770e623010627df24ee2",
+      "size": 25916
+    },
+    "classes11.dex": {
+      "sha256": "c03308fc4e2d76812989064d2abbaf8579ef67c0ea312e2e5668e2aac688dfdd",
+      "size": 48588
+    },
+    "classes12.dex": {
+      "sha256": "a88e68c32314681295c65354ae23a821c21ec0dc81f25c79590f3d7fa6dcdca0",
+      "size": 7084
+    },
+    "classes13.dex": {
+      "sha256": "0469be4b216b6cf554e2a91beb4b6a56e73dad821cf33a0c48ecaa67f90137de",
+      "size": 7680
+    },
+    "classes14.dex": {
+      "sha256": "5336a66718a1cb816faa58a84437a9ceebffead8244bdfee3e752101c7937b40",
+      "size": 5608
+    },
+    "classes15.dex": {
+      "sha256": "cf8452401362360d6504d13ed4b7b7be848a32917bb5a55fc04adcd1898e0b2c",
+      "size": 3444
+    },
+    "classes16.dex": {
+      "sha256": "4f153cf112c7b0c949dba3ea05716fc1505812af384dfb47b4752fcedc1c04a4",
+      "size": 6928
+    },
+    "classes2.dex": {
+      "sha256": "ae2f0e175f0447999f9d604493135aae295b3dfc7675cdedca6b4d25131e8a9d",
+      "size": 11300
+    },
+    "classes3.dex": {
+      "sha256": "56267df2b59af7a2e52502ed524d132de95dd0b4be76b499359b3fc9abcdfb95",
+      "size": 4308
+    },
+    "classes4.dex": {
+      "sha256": "feb8cec328bd46a7bf89ebad5dca3a9f60eb0d156de73589723ff7259d7a692a",
+      "size": 11764
+    },
+    "classes5.dex": {
+      "sha256": "54b05a8f95a044c066283d3f763a1af4407b5b71be0e75d15d46216803a8d497",
+      "size": 23692
+    },
+    "classes6.dex": {
+      "sha256": "e406001c7e0ca9b52053d6b20d5b3b163c052ef154f0e941b4eae3f7dd3d9598",
+      "size": 30440
+    },
+    "classes7.dex": {
+      "sha256": "9da2209daa6e23f2957ffb7eff20a3b6b1eb1f93b15d4c1fae54ea49e5347eb7",
+      "size": 11532
+    },
+    "classes8.dex": {
+      "sha256": "2bd1e371e20884a119a434f6c87b19014c2d0f5843ccefa23d9ad71b969d4fe9",
+      "size": 10424
+    },
+    "classes9.dex": {
+      "sha256": "2b1da2ef1d1f8b8a6f1a6a95c0313ab366faa10b65ae0d31bdcfb0ee555122f9",
+      "size": 24228
+    }
+  }
+}
